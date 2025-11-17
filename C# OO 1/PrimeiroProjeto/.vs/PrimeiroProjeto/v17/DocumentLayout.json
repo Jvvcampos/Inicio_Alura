@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C657AD-9DC8-4C87-A95D-E692BE108650}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# 1\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C657AD-9DC8-4C87-A95D-E692BE108650}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781812B-C4A0-4DD6-91A1-23A3EB73EED9}|DesafioAula4\\DesafioAula4.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# 1\\primeiroprojeto\\desafioaula4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781812B-C4A0-4DD6-91A1-23A3EB73EED9}|DesafioAula4\\DesafioAula4.csproj|solutionrelative:desafioaula4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB839DD-8162-47C5-A096-0868B4B70B6F}|DesafioAula2\\DesafioAula2.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# 1\\primeiroprojeto\\desafioaula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB839DD-8162-47C5-A096-0868B4B70B6F}|DesafioAula2\\DesafioAula2.csproj|solutionrelative:desafioaula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\DesafioAula4\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioAula4\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\DesafioAula4\\Program.cs",
+              "RelativeToolTip": "DesafioAula4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:46:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\DesafioAula2\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioAula2\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\DesafioAula2\\Program.cs",
+              "RelativeToolTip": "DesafioAula2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:53:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# 1\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswIsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:26:47.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
