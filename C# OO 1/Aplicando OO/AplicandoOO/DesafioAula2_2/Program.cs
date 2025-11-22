@@ -1,0 +1,20 @@
+﻿class Program
+{
+    /*
+     * No C#, uma função lambda pode ser aplicada em atributos, propriedades ou na forma como escrevemos funções. Abaixo, existe uma função que soma 2 valores inteiros e retorna o resultado da soma, como mostra o trecho de código a seguir:
+     
+        public int Somar(int a, int b)
+        {
+            int resultado = a + b;
+            return resultado;
+        }
+     * Agora é sua vez! Refaça esse método Somar() usando uma função lambda retornando o resultado da operação.
+    */
+    private static void Main(string[] args)
+    {
+        var Resultado = Somar(10, 5);
+        Console.WriteLine(Resultado);
+    }
+
+    public static int Somar(int a, int b) => a + b;
+}

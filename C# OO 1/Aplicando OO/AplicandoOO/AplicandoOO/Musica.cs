@@ -8,27 +8,20 @@ namespace ScreenSound
 {
     class Musica
     {
-        public string nome;
-        public string artista;
-        public double duracao;
-        private bool disponivel;
+        public string Nome {  get; set; }
+        public string Artista {  get; set; }
+        public double Duracao {  get; set; }
+        public bool Disponivel { get; set; }
 
-        public void EscreveDisponivel(bool value)
-        {
-            disponivel = value;
-        }
-
-        public bool LerDisponivel()
-        {
-            return disponivel;
-        }
+        public string DescricaoResumida =>
+            $"A música {Nome} pertence a banda {Artista}";
 
         public void ExibirFichaTecnica()
         {
-            Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Artista: {artista}");
-            Console.WriteLine($"Duração: {duracao}");
-            if (disponivel)
+            Console.WriteLine($"Nome: {Nome}");
+            Console.WriteLine($"Artista: {Artista}");
+            Console.WriteLine($"Duração: {Duracao}");
+            if (Disponivel)
             {
                 Console.WriteLine("Disponível no plano.");
             }
@@ -40,8 +33,8 @@ namespace ScreenSound
 
         public void ExibirNome()
         {
-            Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Artista: {artista}");
+            Console.WriteLine($"Nome: {Nome}");
+            Console.WriteLine($"Artista: {Artista}");
         }
     }
 }
