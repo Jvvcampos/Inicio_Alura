@@ -4,19 +4,23 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Musica musica1 = new Musica();
-        musica1.Nome = "Roxane";
-        musica1.Artista = "The Police";
-        musica1.Duracao = 100;
-        musica1.Disponivel = true;
+        Album albumQueen = new Album();
+        albumQueen.Nome = "A Night at the Opera";
+
+        Musica musica = new Musica();
+        musica.Nome = "Love of my Life";
+        musica.Duracao = 213;
+        musica.Genero = new Genero();
+        musica.Genero.Nome = "Rock";
+        musica.ExibirFichaTecnica();
 
         Musica musica2 = new Musica();
-        musica2.Nome = "Vertigo";
-        musica2.Artista = "U2";
-        musica2.Duracao = 150;
-        musica2.Disponivel = false;
+        musica2.Nome = "Bohemian Rhapsody";
+        musica2.Duracao = 354;
 
-        musica1.ExibirFichaTecnica();
-        musica2.ExibirFichaTecnica();   
+        albumQueen.AdicionarMusica(musica);
+        albumQueen.AdicionarMusica(musica2);
+
+        albumQueen.ExibirMusicasAlbum();
     }
 }
