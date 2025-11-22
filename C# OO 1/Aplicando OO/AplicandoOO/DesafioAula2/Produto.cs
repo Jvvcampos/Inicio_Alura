@@ -11,10 +11,12 @@ namespace DesafioAula2_2
      */
     class Produto
     {
+        private double preco;
+        private int estoque;
         public string Nome {  get; set; }
         public string Marca {  get; set; }
         public double Preço {
-            get => Preço;
+            get => preco;
             set
             {
                 if (value < 0) Preço = 10;
@@ -23,7 +25,7 @@ namespace DesafioAula2_2
             }
         }
         public int Estoque {  
-            get => Estoque;
+            get => estoque;
             set
             {
                 if (value < 0) Estoque = 0;
