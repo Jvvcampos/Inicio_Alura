@@ -16,12 +16,12 @@ namespace ScreenSound
             Convidados = new List<string>();
         }
 
-        public int Duracao {  get; set; }
-        public int Ordem {  get; set; }
+        public int Duracao { get; }
+        public int Ordem { get; }
         public string Resumo =>
             $"Episódio: {Ordem}# - {Titulo} com {Duracao} min. Convidados: {string.Join(", ", Convidados)}";
-        public string Titulo { get; set; }
-        List<string> Convidados { get; set; }
+        public string Titulo { get; }
+        List<string> Convidados { get; }
 
         public void AdicionarConvidados(string nome)
         {

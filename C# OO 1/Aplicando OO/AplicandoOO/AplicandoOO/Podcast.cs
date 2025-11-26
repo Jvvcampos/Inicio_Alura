@@ -15,9 +15,9 @@ namespace ScreenSound
             this.TotalEpisodios = new List<Episodio>();
         }
 
-        public string Host { get; set; }
-        public string Nome { get; set; }
-        public List<Episodio> TotalEpisodios { get; set; }
+        public string Host { get; }
+        public string Nome { get; }
+        List<Episodio> TotalEpisodios { get; }
 
         public void AdicionarEpisodio(Episodio episodio)
         {
@@ -29,7 +29,7 @@ namespace ScreenSound
         {
             Console.WriteLine($"\nO Podcast {Nome} hospedado por {Host} possui {TotalEpisodios.Count} episódios.");
             Console.WriteLine("\nLista de episódios: ");
-            foreach (var ep in TotalEpisodios)
+            foreach (var ep in TotalEpisodios.OrderBy(e => e.Ordem))
             {
                 Console.WriteLine(ep.Resumo);
             }
