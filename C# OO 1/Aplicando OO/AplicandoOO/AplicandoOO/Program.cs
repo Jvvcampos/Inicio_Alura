@@ -29,5 +29,18 @@ internal class Program
 
         queen.AdicionarAlbum(albumQueen);
         queen.ExibirDiscografia();
+
+        Podcast podcast = new Podcast("Youtube", "Cronicas 24");
+        Episodio ep1 = new Episodio(10, 1, "Inicio afg");
+        Episodio ep2 = new Episodio(15, 2, "Inicio rbt");
+        
+        ep1.AdicionarConvidados("Joao");
+        ep1.AdicionarConvidados("Pedro");
+        ep2.AdicionarConvidados("Pedro");
+        ep2.AdicionarConvidados("Lucas");
+        podcast.AdicionarEpisodio(ep1);
+        podcast.AdicionarEpisodio(ep2);
+        podcast.ExibirDetalhes();
+
     }
 }   
