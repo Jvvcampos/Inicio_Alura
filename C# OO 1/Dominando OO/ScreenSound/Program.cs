@@ -1,10 +1,15 @@
-﻿// Screen Sound
+﻿using ScreenSound.Modelos;
+
+Banda ira = new Banda("Ira!");
+ira.AdicionarNota(10);
+ira.AdicionarNota(9);
+ira.AdicionarNota(8);
+Banda beatles = new Banda("Beatles!");
+
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-List<string> listaDasBandas = new List<string> { "U2", "The Beatles", "Calypso" };
-
-Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
-
-bandasRegistradas.Add("Linkin Park", new List<int> { 10, 10, 8});
+Dictionary<string, Banda> bandasRegistradas = new();
+bandasRegistradas.Add(ira.Nome, ira);
+bandasRegistradas.Add(beatles.Nome, beatles);
 
 
 void ExibirLogo()
@@ -46,7 +51,7 @@ void ExibirOpcoesDoMenu()
             AvaliarBanda();
             break;
         case 4:
-            CalculaMediaBanda();
+            ExibirDetalhes();
             break;
         case -1:
             Console.WriteLine("Tchau tchau :)");
@@ -57,13 +62,39 @@ void ExibirOpcoesDoMenu()
     }
 }
 
+void RegistrarAlbum()
+{
+    Console.Clear();
+    ExibirTituloDaOpcao("Registro de álbuns");
+    Console.Write("Digite a banda cujo álbum deseja registrar: ");
+    string nomeBanda = Console.ReadLine()!;
+    if (bandasRegistradas.ContainsKey(nomeBanda))
+    {
+        Console.Write("Agora digite o título do álbum: ");
+        string tituloAlbum = Console.ReadLine()!;
+        Banda banda = bandasRegistradas[nomeBanda];
+        Console.WriteLine($"O álbum {tituloAlbum} de {nomeBanda} foi registrado com sucesso!");
+        Thread.Sleep(4000);
+        Console.Clear();
+    }
+    else
+    {
+        Console.WriteLine($"O nome da {nomeBanda} não foi encontrado!");
+        Console.WriteLine("Digite alguma tecla para voltar ao menu!");
+        Console.ReadKey();
+        Console.Clear();
+    }
+    ExibirOpcoesDoMenu();
+}
+
 void RegistrarBanda()
 {
     Console.Clear();
     ExibirTituloDaOpcao("Registro de bandas");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;
-    bandasRegistradas.Add(nomeDaBanda, new List<int>());
+    Banda banda = new Banda(nomeDaBanda);
+    bandasRegistradas.Add(nomeDaBanda, banda);
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
     Thread.Sleep(2000);
     Console.Clear();
@@ -105,9 +136,10 @@ void AvaliarBanda()
 
     if (bandasRegistradas.ContainsKey(nomeBanda))
     {
+        Banda banda = bandasRegistradas[nomeBanda];
         Console.Write($"Digite a nota que a banda {nomeBanda} merece: ");
         int nota = int.Parse(Console.ReadLine()!);
-        bandasRegistradas[nomeBanda].Add(nota);
+        banda.AdicionarNota(nota);
         Console.WriteLine($"A nota {nota} foi registrada para a banda {nomeBanda}.");
         Console.WriteLine("Digite alguma tecla para voltar");
         Console.ReadKey();
@@ -124,7 +156,7 @@ void AvaliarBanda()
     }
 }
 
-void CalculaMediaBanda()
+void ExibirDetalhes()
 {
     Console.Clear();
     ExibirTituloDaOpcao("Média da nota de uma banda");
@@ -133,7 +165,8 @@ void CalculaMediaBanda()
 
     if(bandasRegistradas.ContainsKey(nomeBanda))
     {
-        Console.WriteLine($"A média da banda {nomeBanda} foi de {bandasRegistradas[nomeBanda].Average():F2}.");
+        Banda banda = bandasRegistradas[nomeBanda]; 
+        Console.WriteLine($"A média da banda {nomeBanda} foi de {banda.Media}:F2.");
     }
     else
     {

@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScreenSound
+namespace ScreenSound.Modelos;
+class Genero
 {
-    class Genero
-    {
-        public string Nome {  get; set; }
-    }
+    public string Nome { get; set; }
 }
