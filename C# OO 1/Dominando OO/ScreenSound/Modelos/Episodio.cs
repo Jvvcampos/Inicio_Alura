@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ScreenSound.Modelos;
-class Episodio
+internal class Episodio
 {
     public Episodio(int duracao, int ordem, string titulo)
     {

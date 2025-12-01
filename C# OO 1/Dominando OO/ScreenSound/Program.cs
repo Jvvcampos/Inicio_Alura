@@ -1,9 +1,9 @@
 ﻿using ScreenSound.Modelos;
 
 Banda ira = new Banda("Ira!");
-ira.AdicionarNota(10);
-ira.AdicionarNota(9);
-ira.AdicionarNota(8);
+ira.AdicionarNota(new Avaliacao(10));
+ira.AdicionarNota(new Avaliacao(9));
+ira.AdicionarNota(new Avaliacao(8));
 Banda beatles = new Banda("Beatles!");
 
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
@@ -138,9 +138,9 @@ void AvaliarBanda()
     {
         Banda banda = bandasRegistradas[nomeBanda];
         Console.Write($"Digite a nota que a banda {nomeBanda} merece: ");
-        int nota = int.Parse(Console.ReadLine()!);
+        Avaliacao nota = Avaliacao.Parse(Console.ReadLine());
         banda.AdicionarNota(nota);
-        Console.WriteLine($"A nota {nota} foi registrada para a banda {nomeBanda}.");
+        Console.WriteLine($"A nota {nota.Nota} foi registrada para a banda {nomeBanda}.");
         Console.WriteLine("Digite alguma tecla para voltar");
         Console.ReadKey();
         Console.Clear();
@@ -166,7 +166,7 @@ void ExibirDetalhes()
     if(bandasRegistradas.ContainsKey(nomeBanda))
     {
         Banda banda = bandasRegistradas[nomeBanda]; 
-        Console.WriteLine($"A média da banda {nomeBanda} foi de {banda.Media}:F2.");
+        Console.WriteLine($"A média da banda {nomeBanda} foi de {banda.Media}.");
     }
     else
     {

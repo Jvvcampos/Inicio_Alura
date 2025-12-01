@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ScreenSound.Modelos;
-class Podcast
+internal class Podcast
 {
     public Podcast(string host, string nome)
     {
