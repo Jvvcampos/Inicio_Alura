@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\desafioaula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|solutionrelative:desafioaula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\desafioaula3\\modeloseletronicos\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|solutionrelative:desafioaula3\\modeloseletronicos\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\desafioaula3\\modeloseletronicos\\produtoseletronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECFE1B1-DB3A-40A4-8F4D-D440FFD98BEC}|DesafioAula3\\DesafioAula3.csproj|solutionrelative:desafioaula3\\modeloseletronicos\\produtoseletronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|c:\\users\\joaov\\documentos\\inicio_alura\\c# oo 1\\dominando oo\\screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9B1E0B-9B87-4C7C-B727-9576DCE7690A}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioAula3\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\Program.cs",
+              "RelativeToolTip": "DesafioAula3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:58:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\ModelosEletronicos\\Laptop.cs",
+              "RelativeDocumentMoniker": "DesafioAula3\\ModelosEletronicos\\Laptop.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\ModelosEletronicos\\Laptop.cs",
+              "RelativeToolTip": "DesafioAula3\\ModelosEletronicos\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:57:29.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosEletronicos.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\ModelosEletronicos\\ProdutosEletronicos.cs",
+              "RelativeDocumentMoniker": "DesafioAula3\\ModelosEletronicos\\ProdutosEletronicos.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\DesafioAula3\\ModelosEletronicos\\ProdutosEletronicos.cs",
+              "RelativeToolTip": "DesafioAula3\\ModelosEletronicos\\ProdutosEletronicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:56:47.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuSair.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\MenuSair.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuSair.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\MenuSair.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuSair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:31:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:29:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:26:45.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\joaov\\Documentos\\Inicio_Alura\\C# OO 1\\Dominando OO\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:22:50.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
