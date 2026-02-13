@@ -31,4 +31,4 @@
 ## 📝 Notas
 
 - Projetos antigos estão em `_ARQUIVOS_ANTIGOS/`
-- Novos cursos são adicionados conforme a trilha da carreira Back-End em .NET da Alura
+- Novos cursos são adicionados conforme a trilha da carreira Back-End em .NET da Alura, porém alguns cursos da base por serem mais teóricos não irão ter pastas.
