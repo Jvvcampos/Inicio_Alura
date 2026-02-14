@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\bin\Debug\net8.0\Variaveis_e_tipos.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\bin\Debug\net8.0\Variaveis_e_tipos.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\bin\Debug\net8.0\Variaveis_e_tipos.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\bin\Debug\net8.0\Variaveis_e_tipos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\bin\Debug\net8.0\Variaveis_e_tipos.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\refint\Variaveis_e_tipos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\Variaveis_e_tipos.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Variaveis e tipos\Praticando C# 1\obj\Debug\net8.0\ref\Variaveis_e_tipos.dll
