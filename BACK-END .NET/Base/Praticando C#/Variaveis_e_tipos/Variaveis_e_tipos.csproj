@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\if_else\if_else.csproj" />
+  </ItemGroup>
+
 </Project>

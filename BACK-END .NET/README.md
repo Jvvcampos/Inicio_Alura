@@ -16,7 +16,7 @@
 
 | Nível | Status | Cursos |
 |-------|--------|--------|
-| BASE | Em Progresso | 2/6 |
+| BASE | Em Progresso | 6/6 |
 | NIVEL_1 | Não Iniciado | 0/27 + checkpoint |
 | NIVEL_2 | Não Iniciado | 0/21 + checkpoint |
 | NIVEL_3 | Não Iniciado | 0/14 + checkpoint |

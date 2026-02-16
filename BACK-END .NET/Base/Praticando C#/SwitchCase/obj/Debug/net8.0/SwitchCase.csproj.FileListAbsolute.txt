@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll

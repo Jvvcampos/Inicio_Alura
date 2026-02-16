@@ -1,5 +1,4 @@
-﻿
-using Variaveis_e_tipos;
+﻿using Variaveis_e_tipos;
 
 internal class Program
 {

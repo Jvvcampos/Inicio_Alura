@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\bin\Debug\net8.0\For_foreach.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\bin\Debug\net8.0\For_foreach.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\bin\Debug\net8.0\For_foreach.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\bin\Debug\net8.0\For_foreach.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\bin\Debug\net8.0\For_foreach.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\refint\For_foreach.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\For_foreach.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\For_foreach\obj\Debug\net8.0\ref\For_foreach.dll

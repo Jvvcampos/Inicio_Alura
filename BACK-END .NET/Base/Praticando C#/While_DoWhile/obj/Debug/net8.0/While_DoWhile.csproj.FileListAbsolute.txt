@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\bin\Debug\net8.0\While_DoWhile.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\bin\Debug\net8.0\While_DoWhile.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\bin\Debug\net8.0\While_DoWhile.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\bin\Debug\net8.0\While_DoWhile.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\bin\Debug\net8.0\While_DoWhile.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\refint\While_DoWhile.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\While_DoWhile.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Base\Praticando C#\While_DoWhile\obj\Debug\net8.0\ref\While_DoWhile.dll

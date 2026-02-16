@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36908.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis_e_tipos", "Praticando C# 1\Variaveis_e_tipos.csproj", "{46B520A9-A312-4999-90CE-B1322B52D25A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis_e_tipos", "Variaveis_e_tipos\Variaveis_e_tipos.csproj", "{3B99130C-B648-477B-6923-343323F70BBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else_e_switch_case", "if_else_e_switch_case\if_else_e_switch_case.csproj", "{AE181713-02D4-4E92-BDD0-1B5208EAE7BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else", "if_else\if_else.csproj", "{1E32F0F2-4806-1810-6849-D0229907F0B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{3F0F69DB-9175-44A9-8FD2-2F8DE22FDDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_DoWhile", "While_DoWhile\While_DoWhile.csproj", "{4804259A-A75F-70F7-AB94-35509BA19D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_foreach", "For_foreach\For_foreach.csproj", "{9D2F5420-415E-485D-A9AF-7A512C4D7230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +19,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46B520A9-A312-4999-90CE-B1322B52D25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46B520A9-A312-4999-90CE-B1322B52D25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46B520A9-A312-4999-90CE-B1322B52D25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46B520A9-A312-4999-90CE-B1322B52D25A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE181713-02D4-4E92-BDD0-1B5208EAE7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE181713-02D4-4E92-BDD0-1B5208EAE7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE181713-02D4-4E92-BDD0-1B5208EAE7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE181713-02D4-4E92-BDD0-1B5208EAE7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B99130C-B648-477B-6923-343323F70BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B99130C-B648-477B-6923-343323F70BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B99130C-B648-477B-6923-343323F70BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B99130C-B648-477B-6923-343323F70BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E32F0F2-4806-1810-6849-D0229907F0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E32F0F2-4806-1810-6849-D0229907F0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E32F0F2-4806-1810-6849-D0229907F0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E32F0F2-4806-1810-6849-D0229907F0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0F69DB-9175-44A9-8FD2-2F8DE22FDDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0F69DB-9175-44A9-8FD2-2F8DE22FDDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0F69DB-9175-44A9-8FD2-2F8DE22FDDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0F69DB-9175-44A9-8FD2-2F8DE22FDDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4804259A-A75F-70F7-AB94-35509BA19D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4804259A-A75F-70F7-AB94-35509BA19D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4804259A-A75F-70F7-AB94-35509BA19D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4804259A-A75F-70F7-AB94-35509BA19D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2F5420-415E-485D-A9AF-7A512C4D7230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2F5420-415E-485D-A9AF-7A512C4D7230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2F5420-415E-485D-A9AF-7A512C4D7230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2F5420-415E-485D-A9AF-7A512C4D7230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
