@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\bin\Debug\net8.0\Funcionarios.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\bin\Debug\net8.0\Funcionarios.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\bin\Debug\net8.0\Funcionarios.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\bin\Debug\net8.0\Funcionarios.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\bin\Debug\net8.0\Funcionarios.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\refint\Funcionarios.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\Funcionarios.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Funcionarios\obj\Debug\net8.0\ref\Funcionarios.dll

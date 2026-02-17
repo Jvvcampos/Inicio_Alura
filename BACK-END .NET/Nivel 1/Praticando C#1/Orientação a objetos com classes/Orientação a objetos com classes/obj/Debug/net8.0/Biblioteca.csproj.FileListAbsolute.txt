@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\bin\Debug\net8.0\Biblioteca.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#1\Orientação a objetos com classes\Orientação a objetos com classes\obj\Debug\net8.0\ref\Biblioteca.dll
