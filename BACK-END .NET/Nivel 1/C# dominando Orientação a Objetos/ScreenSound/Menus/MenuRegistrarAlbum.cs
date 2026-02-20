@@ -13,7 +13,9 @@ internal class MenuRegistrarAlbum : Menu
         {
             Console.Write("Agora digite o título do álbum: ");
             string tituloAlbum = Console.ReadLine()!;
+            Album album = new Album(tituloAlbum);
             Banda banda = bandasRegistradas[nomeBanda];
+            banda.AdicionarAlbum(album);
             Console.WriteLine($"O álbum {tituloAlbum} de {nomeBanda} foi registrado com sucesso!");
             Thread.Sleep(4000);
             Console.Clear();
