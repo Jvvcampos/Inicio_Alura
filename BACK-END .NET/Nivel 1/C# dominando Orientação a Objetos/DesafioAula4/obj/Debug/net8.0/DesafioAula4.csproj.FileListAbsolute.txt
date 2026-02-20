@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\bin\Debug\net8.0\DesafioAula4.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\bin\Debug\net8.0\DesafioAula4.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\bin\Debug\net8.0\DesafioAula4.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\bin\Debug\net8.0\DesafioAula4.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\bin\Debug\net8.0\DesafioAula4.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\refint\DesafioAula4.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\DesafioAula4.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# dominando Orientação a Objetos\DesafioAula4\obj\Debug\net8.0\ref\DesafioAula4.dll
