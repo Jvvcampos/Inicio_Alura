@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace ScreenSound.Modelos;
 internal class Banda : IAvaliavel
 {
-    private List<Album> albuns = new List<Album>();
+    private List<Album> _albuns = new List<Album>();
+    public IEnumerable<Album> Albuns => _albuns;
+
     private List<Avaliacao> notas = new List<Avaliacao>();
 
     public Banda(string nome)
@@ -23,11 +25,10 @@ internal class Banda : IAvaliavel
             else return notas.Average(a => a.Nota);
         }
     }
-    public List<Album> Albuns => albuns;
 
     public void AdicionarAlbum(Album album)
     {
-        albuns.Add(album);
+        _albuns.Add(album);
     }
 
     public void AdicionarNota(Avaliacao nota)
@@ -39,7 +40,7 @@ internal class Banda : IAvaliavel
     {
         Console.WriteLine($"Discografia da banda {Nome}");
 
-        foreach (Album album in albuns)
+        foreach (Album album in _albuns)
         {
             Console.WriteLine($"Album: {album.Nome} ({album.DuracaoTotal} segundos)");
         }
