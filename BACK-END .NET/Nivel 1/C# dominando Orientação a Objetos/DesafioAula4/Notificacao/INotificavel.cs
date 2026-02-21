@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+Criar uma interface chamada INotificavel com um método EnviarNotificacao. Implemente essa interface em duas classes, Email e SMS. 
+O método EnviarNotificacao deve exibir mensagens diferentes para cada tipo de notificação.
+*/
 
 namespace DesafioAula4.Notificacao
 {
