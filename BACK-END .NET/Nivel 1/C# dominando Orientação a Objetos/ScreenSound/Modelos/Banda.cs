@@ -10,7 +10,8 @@ internal class Banda : IAvaliavel
     private List<Album> _albuns = new List<Album>();
     public IEnumerable<Album> Albuns => _albuns;
 
-    private List<Avaliacao> notas = new List<Avaliacao>();
+    private List<Avaliacao> Notas = new List<Avaliacao>();
+    public string? Resumo { get; set; }
 
     public Banda(string nome)
     {
@@ -21,8 +22,8 @@ internal class Banda : IAvaliavel
     {
         get
         {
-            if (notas.Count == 0) return 0;
-            else return notas.Average(a => a.Nota);
+            if (Notas.Count == 0) return 0;
+            else return Notas.Average(a => a.Nota);
         }
     }
 
@@ -33,7 +34,7 @@ internal class Banda : IAvaliavel
 
     public void AdicionarNota(Avaliacao nota)
     {
-        notas.Add(nota);
+        Notas.Add(nota);
     }
 
     public void ExibirDiscografia()

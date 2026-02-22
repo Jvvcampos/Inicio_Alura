@@ -13,13 +13,17 @@ internal class MenuExibirDetalhes : Menu
         if (bandasRegistradas.ContainsKey(nomeBanda))
         {
             Banda banda = bandasRegistradas[nomeBanda];
-            Console.WriteLine($"A média da nota da banda {nomeBanda} foi de {banda.Media}.");
-            Console.WriteLine($"Discografia:");
+            Console.WriteLine(banda.Resumo);
+            Console.WriteLine($"\nA média da nota da banda {nomeBanda} foi de {banda.Media}.");
+            Console.WriteLine($"\nDiscografia:");
 
             foreach (Album album in banda.Albuns)
             {
                 Console.WriteLine($"{album.Nome} -> {album.Media}");
             }
+            Console.WriteLine("\nDigite alguma tecla para voltar");
+            Console.ReadKey();
+            Console.Clear();
         }
         else
         {
