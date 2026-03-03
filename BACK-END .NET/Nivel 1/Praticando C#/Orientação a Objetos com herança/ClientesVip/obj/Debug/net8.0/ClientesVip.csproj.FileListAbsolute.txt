@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\bin\Debug\net8.0\ClientesVip.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\bin\Debug\net8.0\ClientesVip.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\bin\Debug\net8.0\ClientesVip.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\bin\Debug\net8.0\ClientesVip.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\bin\Debug\net8.0\ClientesVip.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\refint\ClientesVip.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ClientesVip.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\ClientesVip\obj\Debug\net8.0\ref\ClientesVip.dll
