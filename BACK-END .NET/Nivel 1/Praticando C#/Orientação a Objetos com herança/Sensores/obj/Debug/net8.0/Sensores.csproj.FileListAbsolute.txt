@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\bin\Debug\net8.0\Sensores.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\bin\Debug\net8.0\Sensores.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\bin\Debug\net8.0\Sensores.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\bin\Debug\net8.0\Sensores.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\bin\Debug\net8.0\Sensores.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\refint\Sensores.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\Sensores.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\Sensores\obj\Debug\net8.0\ref\Sensores.dll

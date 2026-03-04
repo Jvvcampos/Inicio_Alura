@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\bin\Debug\net8.0\SistemaPagamento.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\bin\Debug\net8.0\SistemaPagamento.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\bin\Debug\net8.0\SistemaPagamento.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\bin\Debug\net8.0\SistemaPagamento.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\bin\Debug\net8.0\SistemaPagamento.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\refint\SistemaPagamento.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\SistemaPagamento.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\SistemaPagamento\obj\Debug\net8.0\ref\SistemaPagamento.dll

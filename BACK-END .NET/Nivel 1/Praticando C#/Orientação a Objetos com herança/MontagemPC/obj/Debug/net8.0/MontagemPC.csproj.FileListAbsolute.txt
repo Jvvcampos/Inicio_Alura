@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\bin\Debug\net8.0\MontagemPC.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\bin\Debug\net8.0\MontagemPC.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\bin\Debug\net8.0\MontagemPC.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\bin\Debug\net8.0\MontagemPC.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\bin\Debug\net8.0\MontagemPC.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\refint\MontagemPC.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\MontagemPC.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com herança\MontagemPC\obj\Debug\net8.0\ref\MontagemPC.dll
