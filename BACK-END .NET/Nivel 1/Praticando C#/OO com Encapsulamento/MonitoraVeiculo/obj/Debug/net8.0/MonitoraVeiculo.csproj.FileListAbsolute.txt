@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\bin\Debug\net8.0\MonitoraVeiculo.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\bin\Debug\net8.0\MonitoraVeiculo.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\bin\Debug\net8.0\MonitoraVeiculo.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\bin\Debug\net8.0\MonitoraVeiculo.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\bin\Debug\net8.0\MonitoraVeiculo.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\refint\MonitoraVeiculo.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\MonitoraVeiculo.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\Orientação a Objetos com Encapsulamento\ConsoleApp1\obj\Debug\net8.0\ref\MonitoraVeiculo.dll

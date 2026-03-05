@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\bin\Debug\net8.0\AgendaContatos.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\bin\Debug\net8.0\AgendaContatos.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\bin\Debug\net8.0\AgendaContatos.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\bin\Debug\net8.0\AgendaContatos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\bin\Debug\net8.0\AgendaContatos.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\refint\AgendaContatos.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\AgendaContatos.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AgendaContatos\obj\Debug\net8.0\ref\AgendaContatos.dll

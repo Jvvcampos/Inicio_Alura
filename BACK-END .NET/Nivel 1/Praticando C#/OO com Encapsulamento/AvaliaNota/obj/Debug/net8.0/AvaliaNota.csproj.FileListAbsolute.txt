@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\bin\Debug\net8.0\AvaliaNota.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\bin\Debug\net8.0\AvaliaNota.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\bin\Debug\net8.0\AvaliaNota.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\bin\Debug\net8.0\AvaliaNota.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\bin\Debug\net8.0\AvaliaNota.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\refint\AvaliaNota.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\AvaliaNota.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\AvaliaNota\obj\Debug\net8.0\ref\AvaliaNota.dll

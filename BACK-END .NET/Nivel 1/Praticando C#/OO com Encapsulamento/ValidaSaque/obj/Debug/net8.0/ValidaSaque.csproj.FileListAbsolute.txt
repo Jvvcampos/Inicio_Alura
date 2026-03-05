@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\bin\Debug\net8.0\ValidaSaque.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\bin\Debug\net8.0\ValidaSaque.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\bin\Debug\net8.0\ValidaSaque.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\bin\Debug\net8.0\ValidaSaque.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\bin\Debug\net8.0\ValidaSaque.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\refint\ValidaSaque.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ValidaSaque.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Encapsulamento\ValidaSaque\obj\Debug\net8.0\ref\ValidaSaque.dll
