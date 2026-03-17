@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\bin\Debug\net8.0\Calcula.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\bin\Debug\net8.0\Calcula.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\bin\Debug\net8.0\Calcula.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\bin\Debug\net8.0\Calcula.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\bin\Debug\net8.0\Calcula.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\refint\Calcula.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\Calcula.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Calcula\obj\Debug\net8.0\ref\Calcula.dll

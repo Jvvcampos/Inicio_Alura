@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\bin\Debug\net8.0\Midias.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\bin\Debug\net8.0\Midias.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\bin\Debug\net8.0\Midias.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\bin\Debug\net8.0\Midias.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\bin\Debug\net8.0\Midias.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\refint\Midias.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\Midias.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\Midias\obj\Debug\net8.0\ref\Midias.dll

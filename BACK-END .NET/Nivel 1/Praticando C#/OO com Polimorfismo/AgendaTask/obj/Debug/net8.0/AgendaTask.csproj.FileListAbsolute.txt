@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\bin\Debug\net8.0\AgendaTask.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\bin\Debug\net8.0\AgendaTask.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\bin\Debug\net8.0\AgendaTask.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\bin\Debug\net8.0\AgendaTask.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\bin\Debug\net8.0\AgendaTask.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\refint\AgendaTask.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\AgendaTask.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\Praticando C#\OO com Polimorfismo\AgendaTask\obj\Debug\net8.0\ref\AgendaTask.dll
