@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound04", "ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioAula1", "DesafioAula1\DesafioAula1.csproj", "{0A48EFFB-DAAB-47BD-9A60-6F45B95DB745}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioAula2", "DesafioAula2\DesafioAula2.csproj", "{90272AB0-0CF2-4370-A139-301D096880F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A48EFFB-DAAB-47BD-9A60-6F45B95DB745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A48EFFB-DAAB-47BD-9A60-6F45B95DB745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A48EFFB-DAAB-47BD-9A60-6F45B95DB745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90272AB0-0CF2-4370-A139-301D096880F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90272AB0-0CF2-4370-A139-301D096880F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90272AB0-0CF2-4370-A139-301D096880F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90272AB0-0CF2-4370-A139-301D096880F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
