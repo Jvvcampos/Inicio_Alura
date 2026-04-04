@@ -1,4 +1,5 @@
-﻿using ScreenSound04.Modelos;
+﻿using ScreenSound04.Filtros;
+using ScreenSound04.Modelos;
 using System.Text.Json;
 
 using (HttpClient client = new HttpClient())
@@ -7,8 +8,11 @@ using (HttpClient client = new HttpClient())
     {
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
-
-        musicas[10].ExibirFichaTecnica();
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        //LinqFilter.FiltrarArtistasPorGenero(musicas, "pop");
+        //LinqFilter.FiltrarMusicasArtista(musicas, "Eminem");
+        LinqFilter.FiltrarMusicasAno(musicas, "2014");
     }
     catch (Exception ex)
     {

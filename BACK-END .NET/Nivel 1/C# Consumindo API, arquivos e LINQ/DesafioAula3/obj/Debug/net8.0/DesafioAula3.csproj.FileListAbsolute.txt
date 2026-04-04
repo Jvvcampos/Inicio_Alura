@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\bin\Debug\net8.0\DesafioAula3.exe
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\bin\Debug\net8.0\DesafioAula3.deps.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\bin\Debug\net8.0\DesafioAula3.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\bin\Debug\net8.0\DesafioAula3.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\bin\Debug\net8.0\DesafioAula3.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\refint\DesafioAula3.dll
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.pdb
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\DesafioAula3.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Projetos\Inicio_Alura\BACK-END .NET\Nivel 1\C# Consumindo API, arquivos e LINQ\DesafioAula3\obj\Debug\net8.0\ref\DesafioAula3.dll
