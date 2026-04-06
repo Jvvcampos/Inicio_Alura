@@ -19,6 +19,16 @@ namespace ScreenSound04.Modelos
         public string Genero { get; set; }
         [JsonPropertyName("year")]
         public string Ano {  get; set; }
+        [JsonPropertyName("key")]
+        public int Key { get; set; }
+        private string[] tonalidades = { "C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B" };
+        public string Tonalidade 
+        {
+            get
+            {
+                return tonalidades[Key];
+            }
+        }
 
         public void ExibirFichaTecnica()
         {
@@ -26,6 +36,7 @@ namespace ScreenSound04.Modelos
             Console.WriteLine($"Música: {Nome}");
             Console.WriteLine($"Duração em segundos: {Duracao / 1000}");
             Console.WriteLine($"Gênero musical: {Genero}");
+            Console.WriteLine($"Tonalidade: {Tonalidade}");
         }
     }
 }

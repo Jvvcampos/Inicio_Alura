@@ -54,5 +54,17 @@ namespace ScreenSound04.Filtros
                 Console.WriteLine($"- {musica}");
             }
         }
+
+        public static void FiltrarDoSustenidoMusicas(List<Musica> musicas)
+        {
+            var MusicasPorDoSustenido = musicas.Where(musica => musica.Tonalidade.Equals("C#"))
+                .Select(musica => musica.Nome).Distinct().ToList();
+            Console.WriteLine("Lista de músicas que tenha a tonalidade dó sustenido");
+
+            foreach(var musica in MusicasPorDoSustenido)
+            {
+                Console.WriteLine($"- {musica}");
+            }
+        }
     }
 }

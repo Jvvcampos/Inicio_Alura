@@ -13,8 +13,9 @@ using (HttpClient client = new HttpClient())
         //LinqFilter.FiltrarArtistasPorGenero(musicas, "pop");
         //LinqFilter.FiltrarMusicasArtista(musicas, "Eminem");
         //LinqFilter.FiltrarMusicasAno(musicas, "2014");
+        LinqFilter.FiltrarDoSustenidoMusicas(musicas);
 
-        var musicasPreferidas = new MusicasPreferidas("Joao");
+        /*var musicasPreferidas = new MusicasPreferidas("Joao");
         musicasPreferidas.AdicionarMusicasFavoritas(musicas[1]);
         musicasPreferidas.AdicionarMusicasFavoritas(musicas[2]);
         musicasPreferidas.AdicionarMusicasFavoritas(musicas[3]);
@@ -22,7 +23,9 @@ using (HttpClient client = new HttpClient())
         musicasPreferidas.AdicionarMusicasFavoritas(musicas[5]);
 
         musicasPreferidas.ExibirMusicasFavoritas();
-        musicasPreferidas.GerarArquivoJson();
+        musicasPreferidas.GerarArquivoJson();*/
+        var musica = musicas[1];
+        musica.ExibirFichaTecnica();
 
     }
     catch (Exception ex)
