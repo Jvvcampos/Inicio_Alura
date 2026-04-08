@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankIO", "ByteBankIO\ByteBankIO.csproj", "{4145D068-66A6-1CD4-0454-94FBC51C479D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4145D068-66A6-1CD4-0454-94FBC51C479D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4145D068-66A6-1CD4-0454-94FBC51C479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4145D068-66A6-1CD4-0454-94FBC51C479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4145D068-66A6-1CD4-0454-94FBC51C479D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA2245F-7B6E-4A1B-8A25-5B534BFD1F53}
+	EndGlobalSection
+EndGlobal
