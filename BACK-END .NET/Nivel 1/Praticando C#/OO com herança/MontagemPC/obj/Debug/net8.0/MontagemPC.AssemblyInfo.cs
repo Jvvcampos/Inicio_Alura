@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MontagemPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c65671517f62fb89aa6cea7f1eba2550b9145f68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a83df61a2246acfbc7e970a09d35a6f3447cb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MontagemPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MontagemPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
