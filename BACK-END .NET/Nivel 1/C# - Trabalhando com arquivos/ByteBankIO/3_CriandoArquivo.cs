@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 partial class Program
 {
     static void CriarArquivo()
@@ -33,5 +32,21 @@ partial class Program
             escritor.Write("456,7895,97863.40,Pedro");
         }
 
+    }
+    static void TestaEscrita()
+    {
+        var caminhoNovoArquivo = "teste.txt";
+
+        using (var fluxoDeArquivo = new FileStream(caminhoNovoArquivo, FileMode.CreateNew))
+        using (var escritor = new StreamWriter(fluxoDeArquivo))
+        {
+            for (int i = 0; i < 1000000; i++)
+            {
+                escritor.WriteLine($"Linha {i}");
+                escritor.Flush();
+                Console.WriteLine($"Linha {i} foi escrita no arquivo. Tecle enter p adicionar mais uma!");
+                Console.ReadLine();
+            }
+        }
     }
 }

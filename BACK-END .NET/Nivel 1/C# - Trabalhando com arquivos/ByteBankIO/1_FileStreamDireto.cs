@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 partial class Program
 {
     static void FileStreamDireto()
@@ -41,4 +40,3 @@ partial class Program
         }*/
     }
 }
-
