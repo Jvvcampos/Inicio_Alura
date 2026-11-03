@@ -1,7 +1,24 @@
 ﻿using var arquivo = new FileStream("musicas.csv", FileMode.Open, FileAccess.Read);
 using var stream = new StreamReader(arquivo);
 
+var musicas = ObterMusicas(stream)
+    .Take(20);
 
+ExibirMusicasEmTabela(musicas);
+
+void Interning()
+{
+    var artista1 = "Coldplay"; //interning - string literal
+    var artista2 = "Coldplay";
+    var artista3 = new string("Coldplay"); // Não faz interning
+    var artista4 = "COLDPLAY";
+    var artista5 = artista1.ToUpper(); //heap
+
+    Console.WriteLine(artista1 == artista2);//true
+    Console.WriteLine(ReferenceEquals(artista1, artista3));//true - pool de string
+    Console.WriteLine(ReferenceEquals(artista1, artista4));
+    Console.WriteLine(ReferenceEquals(artista4, artista5));
+}
 
 void AlterandoTitulo(StreamReader stream)
 {
@@ -92,7 +109,7 @@ void ExibirMusicasEmTabela(IEnumerable<Musica> musicas)
 
     foreach (var musica in musicas)
     {
-        var duracao = string.Format("{0,-10:F2}", musica.Duracao/60.0);
+        var duracao = string.Format("{0,-10:F2}", musica.Duracao / 60.0);
         var linha = $"{musica.Titulo,-40}{musica.Artista,-30}{duracao}" +
             $"{musica.Lancamento,-15:dd/MM/yyyy}";
         Console.WriteLine(linha);
@@ -105,15 +122,18 @@ IEnumerable<Musica> ObterMusicas(StreamReader reader)
     while (linha is not null)
     {
         var leitura = linha.Split(';');
-        var musica = new Musica
+        if(leitura.Length == 5)
         {
-            Titulo = leitura[0],
-            Artista = leitura[1],
-            Duracao = Convert.ToInt32(leitura[2]),
-            Generos = leitura[3].Split(',', StringSplitOptions.TrimEntries),
-            Lancamento = Convert.ToDateTime(leitura[4])
-        };
-        yield return musica;
+            var musica = new Musica
+            {
+                Titulo = string.IsNullOrWhiteSpace(leitura[0]) ? "Titulo não encontrado" : leitura[0],
+                Artista = string.IsNullOrWhiteSpace(leitura[1]) ? "Artista não encontrado" : leitura[1],
+                Duracao = int.TryParse(leitura[2], out int duracao) ? duracao : 350,
+                Generos = leitura[3].Split(',', StringSplitOptions.TrimEntries),
+                Lancamento = DateTime.TryParse(leitura[4], out var data) ? data : DateTime.Today
+            };
+            yield return musica;
+        }
         linha = stream.ReadLine();
     }
 }
